@@ -1,31 +1,44 @@
-![logo](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
-### Hi there 👋,I'm Rayan Weragala
-🎓 An enthusiastic undergraduate student diving into the exciting world of software development. My coding journey began with PHP, HTML, and CSS, and C. I've been on a quest to master languages like Python,R, Java, Kotlin and Javascript for crafting engaging web experiences. Exploring Kotlin has also allowed me to venture into the realm of Android app development.
+### 👨‍💻 Software Engineer | Full Stack Developer
 
-🔍 I thrive on challenges and love transforming concepts into functional code. Whether it's tackling intricate algorithms or designing user-friendly interfaces, I'm dedicated to building solutions that blend innovation with practicality.
+I am a passionate developer who has evolved from writing simple scripts to architecting complex, scalable applications. My journey started with the basics, but I now specialize in building robust enterprise-grade solutions using **Java, Spring Boot, and modern frontend technologies**.
 
-🌱 As I work towards my degree, I'm eager to learn, collaborate, and contribute to the tech community. I'm always on the lookout for opportunities to expand my skills and make a positive impact through coding.
+I focus on writing clean, testable code (TDD enthusiast!) and designing systems that are efficient and maintainable.
 
-🌐 Connect with me as I navigate this exciting journey, share experiences, and explore the endless possibilities that software development offers.
+- 🔭 I’m currently working on Mastering Microservices Architecture and System Design.
+- 🌱 I’m constantly exploring Cloud Native technologies and DevOps best practices.
+- 👯 I’m open to collaborating on Open Source Java & Spring Boot projects.
 
-📧 Email: rayanthilakshana2000@gmail.com
+---
+
+### 🛠️ Tech Stack
+
+**Backend & Database**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,mongodb,nodejs,express,php" />
+</a>
+
+**Frontend & Mobile**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,sass,kotlin,androidstudio" />
+</a>
+
+**DevOps & Tools**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,idea,vscode,linux,jenkins" />
+</a>
+
+---
+
 <br />
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,sass,tailwind,react,vite,nextjs,nodejs,express,ts,mongodb,firebase,wordpress,postman,c,cpp,java,python,kotlin,r,git,netlify,spring,)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea,androidstudio,eclipse,ps,figma)](https://skillicons.dev)
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
+<div align="center">
+  <a href="mailto:rayanthilakshana2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rayan-weragala">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
