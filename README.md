@@ -1,16 +1,16 @@
-### 👨‍💻 Software Engineer | Full Stack Developer
+###  Full Stack Developer
 
 I am a passionate developer who has evolved from writing simple scripts to architecting complex, scalable applications. My journey started with the basics, but I now specialize in building robust enterprise-grade solutions using **Java, Spring Boot, and modern frontend technologies**.
 
 I focus on writing clean, testable code (TDD enthusiast!) and designing systems that are efficient and maintainable.
 
-- 🔭 I’m currently working on Mastering Microservices Architecture and System Design.
-- 🌱 I’m constantly exploring Cloud Native technologies and DevOps best practices.
-- 👯 I’m open to collaborating on Open Source Java & Spring Boot projects.
+- I’m currently working on Mastering Microservices Architecture and System Design.
+- I’m constantly exploring Cloud Native technologies and DevOps best practices.
+- I’m open to collaborating on Open Source Java & Spring Boot projects.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend & Database**
 <br>
