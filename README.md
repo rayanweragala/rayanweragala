@@ -19,13 +19,6 @@
 I am a Full Stack Engineer who has grown from writing simple scripts to designing and delivering complex, scalable systems. My technical focus is on **Java, Spring Boot**, and the broader ecosystem of modern enterprise development — writing clean, testable code with a strong TDD practice, and building backends that hold up under real-world load.
 
 Currently deepening expertise in **Microservices Architecture** and **System Design**, while actively exploring Cloud Native technologies, container orchestration, and DevOps workflows. The goal is always the same: software that is efficient, maintainable, and built to last.
-
-**Prior experience** includes a software engineering internship at **Synapse Solutions Pvt Ltd**, where I worked across backend, telephony, and infrastructure layers of a large-scale communication platform. Responsibilities spanned developing features for Asterisk-based PBX systems via ARI, enhancing IVR call flows, and debugging complex call-routing scenarios. Built and maintained REST APIs within Spring Boot microservices, improved logging and auditing pipelines, and handled AngularJS frontend updates for IVR configuration and call management. On the infrastructure side: Linux server administration, production troubleshooting, Kubernetes workload management (pods, deployments, config maps, secrets), and observability work with Prometheus, Grafana, and the ELK stack. Worked extensively with MySQL — query optimisation, data validation, and campaign/agent/transaction analysis.
-
-- Pursuing a **BSc in Information Technology** at SLIIT
-- Open to collaborating on open-source Java and Spring Boot projects
-- Interested in distributed systems, event-driven architecture, and platform engineering
-
 ---
 
 ## Tech Stack
